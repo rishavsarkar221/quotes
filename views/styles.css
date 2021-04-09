@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@1,300&display=swap');@import url('https://fonts.googleapis.com/css2?family=Train+One&display=swap');body {    text-align: center;    background-color: #150e56;    color: white;}.quote {    font-size: 70px;    font-family: 'Anton', sans-serif;    color: lime;}.getQuote {    margin-top: 9%;    margin-bottom: 9%;    font-size: 35px;    width: 50%;    font-family: 'Pacifico', cursive;}.getAuthor {    font-family: 'Merriweather Sans', sans-serif;    font-size: 25px;}h1 {    font-family: 'Train One', cursive;    color: #f7ea00;}button {    background-color: #4CAF50; /* Green */    border: none;    color: white;    padding: 15px 32px;    text-align: center;    text-decoration: none;    display: inline-block;    outline: none;    cursor: pointer;    font-size: 20px;}button:hover {    transition:  1s;    background-color: green;}
+nav {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+}
+
+span.content {
+    font-family: Arial, Helvetica, sans-serif;
+}
